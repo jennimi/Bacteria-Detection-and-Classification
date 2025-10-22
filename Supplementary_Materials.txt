@@ -1,0 +1,17 @@
+Title: Supplementary Materials - YOLOv8+CBAM Gram-Stained Bacteria Detection
+
+This study provides code, configuration files, and dataset preparation scripts
+hosted on GitHub for reproducibility.
+
+Repository URL:
+https://github.com/[your-username]/[your-repo-name]
+
+Description:
+The repository includes:
+- YOLOv8 baseline and CBAM-modified training notebooks
+- Dataset configuration (data.yaml)
+- Preprocessing and export scripts
+- Images and Labels of the dataset, resulted from the Data Preparation process (selection, preprocessing, and augmentation)
+
+The Original Dataset is from Wang Xiuli, “Clinical Bacteria DataSet.” Zenodo, Jan. 18, 2024. doi: 10.5281/ZENODO.10526360.
+
