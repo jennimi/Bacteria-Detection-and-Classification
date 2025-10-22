@@ -1,0 +1,6 @@
+train: /Users/karyna/Documents/Alternative TA/Final/images/train
+val: /Users/karyna/Documents/Alternative TA/Final/images/val
+test: /Users/karyna/Documents/Alternative TA/Final/images/test
+
+nc: 4
+names: ['negative_cocci', 'positive_cocci', 'negative_bacilli', 'positive_bacilli']
